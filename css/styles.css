@@ -20,7 +20,7 @@ h6, p {
 }
 
 img {
-display: flex;
+display: block;
 }
 
 a{
@@ -115,8 +115,8 @@ margin-right: 76px;
 
 .section-one{
     background-color: #2e2f42;
-    padding-top: 184px;
-    padding-bottom: 296px;
+    padding-top: 188px;
+    padding-bottom: 188px;
 
 }
 
@@ -139,6 +139,7 @@ margin-right: 76px;
     border-radius: 4px;
     border: none;
     margin: auto;
+    min-width: 169px;
     margin-top: 48px;
     background-color: #4d5ae5;
     font-weight: 500;
