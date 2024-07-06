@@ -221,20 +221,8 @@ padding-bottom: 32px;
 border-radius: 0 0 4px 4px;
 }
 
-.Mark-Guerrero{
-    padding: 32px 0;
-}
-
-.Tom-Ford{
-    padding: 32px 0;
-}
-
-.Camila-Garcia{
-    padding: 32px 0;
-}
-
-.Daniel-Wilson{
-    padding: 32px 0;
+.description{
+    padding: 24px 0;
 }
 
 .section-three-item-header{
@@ -247,6 +235,7 @@ border-radius: 0 0 4px 4px;
 }
 
 .section-three-item-text{
+    margin-bottom: 8px;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
