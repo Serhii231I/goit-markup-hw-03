@@ -159,7 +159,7 @@ padding: 120px 0;
 }
 
 .section-two-header{
-    visibility: hidden;
+    display: none;
 }
 
 .section-two-list{
