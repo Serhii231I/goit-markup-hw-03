@@ -221,11 +221,12 @@ padding-bottom: 32px;
 border-radius: 0 0 4px 4px;
 }
 
-.description{
-    padding: 24px 0;
+.description-team{
+    padding: 32px 0;
 }
 
 .section-three-item-header{
+    margin-bottom: 8px;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -235,7 +236,7 @@ border-radius: 0 0 4px 4px;
 }
 
 .section-three-item-text{
-    margin-bottom: 8px;
+    
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -244,7 +245,13 @@ border-radius: 0 0 4px 4px;
     color: #434455;
 }
 
+.section-four{
+    display: flex;
+    padding: 120px;
+}
+
 .section-four-header{
+    margin-bottom: 72px;
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -254,7 +261,22 @@ border-radius: 0 0 4px 4px;
     color: #2e2f42;
 }
 
+.section-four-list{
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 24px;
+    row-gap: 48px;
+}
+
+.description-portfolio{   
+    border-bottom: 1px solid #e7e9fc;
+    border-left: 1px solid #e7e9fc;
+    border-right: 1px solid #e7e9fc;
+    padding: 32px 16px
+}
+
 .section-four-item-header{
+    margin-bottom: 8px;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
