@@ -158,8 +158,8 @@ margin-right: 76px;
 padding: 120px 0;
 }
 
-.section-two-header{
-    display: none;
+.visually-hidden{
+visibility: hidden;
 }
 
 .section-two-list{
