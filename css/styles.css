@@ -191,9 +191,11 @@ width: calc((100% - 3 * 24px) / 4);
 
 .section-three{
     background-color: #f4f4fd;
+    display: flex;
 }
 
 .section-three-header{
+    margin-bottom: 72px;
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -205,9 +207,34 @@ width: calc((100% - 3 * 24px) / 4);
 
 .section-three{
     background-color: #F4F4FD;
+    padding: 120px 0;
+}
+
+.section-three-list{
+    display: flex;
+    gap: 24px;
 }
 .section-three-item{
 background-color: #FFFFFF;
+width: calc((100% - 3 * 24px) / 4);
+padding-bottom: 32px;
+border-radius: 0 0 4px 4px;
+}
+
+.Mark-Guerrero{
+    padding: 32px 0;
+}
+
+.Tom-Ford{
+    padding: 32px 0;
+}
+
+.Camila-Garcia{
+    padding: 32px 0;
+}
+
+.Daniel-Wilson{
+    padding: 32px 0;
 }
 
 .section-three-item-header{
